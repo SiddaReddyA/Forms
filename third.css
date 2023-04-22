@@ -1,0 +1,46 @@
+.a{
+    color: blue;
+    text-shadow: 4px 1px 0px black;
+    background-size: cover;
+    text-align: center;
+    text-size-adjust: 90px;
+}
+/*div.form{
+    background: linear-gradient(45deg, dodgerblue, white,purple);
+    width: 12cm;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+/*lable{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+}*/
+body{
+    background: url("./apppic1.jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+.form{
+    max-width: 700px;
+    width: 0%;
+    background:darkgrey;
+    padding: 10px 30px;
+   width: 200px;
+   margin: 10px auto 0px auto;
+    border-radius: 5px;
+    
+
+}
+.form.{
+    position: absolute;
+
+}
+
+/*div.form{
+    background-color: rgba(0,0,1,0.1);
+}
